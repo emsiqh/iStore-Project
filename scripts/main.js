@@ -48,7 +48,7 @@ var swiper = new Swiper('.product-slider', {
     loop: true,
     spaceBetween: 20,
     autoplay: {
-        delay: 2500,
+        delay: 3000,
         disableOnInteraction: false,
     },
     centeredSlides: true,
@@ -69,7 +69,7 @@ var swiper = new Swiper('.review-slider', {
     loop: true,
     spaceBetween: 20,
     autoplay: {
-        delay: 2500,
+        delay: 3000,
         disableOnInteraction: false,
     },
     centeredSlides: true,
